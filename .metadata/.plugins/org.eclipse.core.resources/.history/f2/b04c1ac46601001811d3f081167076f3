@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula12;
+package com.loiane.exercicios.aula15;
 
-public class LeituraDadosTeclado {
+public class Exercicio1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
-package com.loiane.cursojava.aula15;
+package com.loiane.exercicios.aula15;
 
-public class SwitchCase {
+public class Exercicio2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

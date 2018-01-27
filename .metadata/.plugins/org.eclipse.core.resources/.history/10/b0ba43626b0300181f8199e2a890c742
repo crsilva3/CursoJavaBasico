@@ -1,0 +1,12 @@
+package com.loiane.exercicios.aula15;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		// Faça um Programa que peça dois números e imprima o maior deles.
+		
+		
+
+	}
+
+}
