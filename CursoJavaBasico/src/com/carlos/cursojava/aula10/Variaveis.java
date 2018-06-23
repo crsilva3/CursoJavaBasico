@@ -6,7 +6,7 @@ public class Variaveis {
 		// Convenção java
 		
 		int idade = 20;
-		String = "Carlos"; 
+		String meuNome = "Carlos"; 
 		String nomeDoMeuCachorro = "Totó";
 		String ano2014 = "2014";
 		
